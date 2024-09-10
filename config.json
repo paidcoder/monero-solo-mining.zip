@@ -1,0 +1,12 @@
+{
+    "url": "127.0.0.1:18081",
+    "user": "YOUR_MONERO_WALLET_ADDRESS",
+    "pass": "",
+    "algo": "rx/0",
+    "threads": 2,
+    "cpu": {
+        "enabled": true,
+        "priority": 3,
+        "max-cpu-usage": 75
+    }
+}
